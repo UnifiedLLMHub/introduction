@@ -1,4 +1,4 @@
-# AI Chat Platform
+# UnifiedLLMHub - AI Chat Platform (Under development Phase I)
 
 A full-stack AI chat application featuring a modern Next.js frontend and a high-performance FastAPI backend. The platform enables seamless conversations with multiple AI models including OpenAI, Claude, Gemini, and Grok, with support for file attachments, real-time streaming responses, and comprehensive conversation management.
 
